@@ -1,6 +1,6 @@
 <template>
   <v-container class="container">
-    <v-row class="industries">
+    <v-row>
       <v-col md="4" sm="12" v-for="industry in getIndustries" :key="industry._id">
         <div class="card" @click.prevent="view(industry.name)">
           <div class="card-body">

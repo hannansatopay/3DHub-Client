@@ -16,7 +16,9 @@
 
     <div class="spacer"></div>
 
-    <div v-html="service.details"></div>
+    <v-container>
+      <div v-html="service.details"></div>
+    </v-container>
 
     <div class="spacer"></div>
 
