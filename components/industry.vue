@@ -18,14 +18,25 @@
 
 <script>
 export default {
+  props:{
+    service: Object
+  },
   data() {
     return {
     }
   },
   computed: {
     getIndustries() {
-      console.log("Industries", this.$store.getters.getIndustries);
-      return this.$store.getters.getIndustries;
+      if (this.service) {
+        if (this.service.industry) {
+          return this.$store.getters.getIndustries.filter((a) =>
+            this.service.industry.includes(a.name)
+          ).sort((a,b) => a['order'] - b['order']);
+        } 
+      }
+      else {
+        return this.$store.getters.getIndustries;
+      }
     },
   },
   methods: {

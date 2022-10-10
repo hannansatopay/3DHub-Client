@@ -193,9 +193,7 @@
 <script>
 export default {
 
-    props:{
-    classname: Object,
-    },
+    
     
   data() {
     return {

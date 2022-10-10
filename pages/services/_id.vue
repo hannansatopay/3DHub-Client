@@ -20,10 +20,10 @@
 
     <div class="spacer"></div>
 
-    <Technology/>
+    <Technology :service="service"/>
 
     <H1 text="Industries" />
-    <Industry/>
+    <Industry :service="service"/>
 
    <Why/>
 
@@ -50,6 +50,7 @@ export default {
           a.name.includes(this.$route.params.id)
         )[0];
         this.service = services;
+        console.log("Service", this.service);
       },
 }
 </script>

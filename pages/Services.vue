@@ -17,7 +17,7 @@
                     <div class="card text-center" @click.prevent="view(service.name)">
                         <img :src="service.image" />
                         <h3 class="mt-4">{{service.name}}</h3>
-                        <p class="mt-4 text-center">{{truncateString(service.description, 150)}}</p>
+                        <p class="mt-4 text-center" v-html="truncateString(service.description, 150)"></p>
                     </div>
                 </v-col>
             </v-row>
@@ -76,7 +76,7 @@ export default {
 components: { Faq, H1 },
   computed: {
     getServices(){
-        return this.$store.getters.getServices;
+        return this.$store.getters.getServices.sort((a,b) => a['order'] - b['order']);
     },
   },
   methods: {
