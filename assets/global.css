@@ -1,0 +1,238 @@
+* {
+    letter-spacing: 0.5px;
+}
+
+.v-toolbar__content {
+    padding: 0px!important;
+}
+
+.v-dialog {
+    box-shadow: 0px 19px 40px rgba(0, 0, 0, 0.05)!important;
+    border-radius: 20px!important;
+}
+
+.slick-prev, .slick-next {
+    font-size: 0;
+    line-height: 0;
+    position: absolute;
+    top: 50%;
+    display: block;
+    width: 20px;
+    height: 20px;
+    padding: 0;
+    transform: translate(0, -50%);
+    cursor: pointer;
+    color: transparent;
+    border: none;
+    outline: none;
+    background: transparent;
+}
+
+.slick-next {
+    right: -25px;
+}
+
+.slick-prev {
+    left: -25px;
+}
+
+/* button {
+    background-color: #009688!important;
+    color: white!important;
+} */
+
+.text-white {
+    color: white;
+  }
+
+  .text-black {
+    color: black;
+  }
+
+.slick-slide {
+    width: 100%;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.slick-arrow .v-icon {
+    background: white;
+    border: 1px solid #DADADA;
+    border-radius: 50%;
+}
+
+.position-relative {
+    position: relative;
+}
+
+.position-absolute {
+    position: absolute;
+}
+
+.bottom-0 {
+    bottom: 0px;
+}
+
+.left-0 {
+    left: 0px;
+}
+
+.top-0 {
+    top: 0px;
+}
+
+.right-0 {
+    right: 0px;
+}
+
+
+.text-green {
+    color: #009688;
+}
+
+.primary-bg {
+    height: auto !important;
+    background: #3F51B5 !important;
+    background: #4055ce !important;
+    background: #1b2071 !important;
+    background: #FFC107 !important;
+    border-bottom: 0px solid #f7b702 !important;
+    box-shadow: none !important;
+}
+
+.slick-track {
+    display: flex;
+}
+
+.slick-slide,
+.slick-slide:focus,
+.slick-slide::-moz-focus-inner,
+.slick-slide>div,
+.slick-slide>div:focus,
+.slick-slide>div::-moz-focus-inner {
+    border: 0 !important;
+    outline: none !important;
+    outline-style: none;
+    box-shadow: none !important;
+}
+
+*:focus {
+    outline: none !important
+}
+
+* {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0) !important;
+}
+
+.slick-list {
+    overflow: hidden;
+}
+
+.slick-slider {
+    position: relative;
+}
+
+.custom-arrow::before {
+    content: '' !important;
+}
+
+.next-btn,
+.prev-btn {
+    background: #f7f7f7;
+    user-select: none;
+    color: #000;
+    height: 35px;
+    width: 35px;
+}
+
+.slick-prev {
+    z-index: 5;
+    width: auto !important;
+    height: auto !important;
+}
+
+.slick-next {
+    z-index: 5;
+    width: auto !important;
+    height: auto !important;
+}
+
+.brand-image .v-image__image {
+    filter: grayscale(0);
+    opacity: 1;
+}
+
+.brand-image .v-image__image:hover {
+    filter: grayscale(0);
+    opacity: 1;
+}
+
+.brand-image .mx-5:last-child {
+    display: none !important
+}
+
+@media (max-width: 480px) {
+    .brand-image .v-image__image {
+        width: 80px !important;
+    }
+    .slider-card .v-image {
+        height: 100px !important;
+    }
+}
+
+
+/* List tiles component animation for updating hover to tiles */
+
+.tiles_hovered:hover {
+    color: white;
+    outline-color: white;
+    transform: scale(1.25);
+    /* background-color: teal; */
+    ;
+}
+
+
+/* Whatsapp chat css starts */
+
+.my-input.v-input .v-input__slot {
+    border-radius: 100px;
+}
+
+.chat-background {
+    background-color: #ffffff !important
+}
+
+.chat-header {
+    background-color: #060707 !important
+}
+
+.chip-chat {
+    background-color: #EEEEEE !important
+}
+
+
+/* Whatsapp chat css ends */
+
+.spacer {
+    height: 75px;
+}
+
+@media (max-width: 991.98px) {
+    .col-sm-12 {
+      flex: 1;
+      max-width: 100%!important;
+      width: 100%!important;
+    }
+
+    .spacer {
+        height: 25px;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .inverse {
+      flex-direction: column-reverse!important;
+    }
+  }

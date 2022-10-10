@@ -1,0 +1,43 @@
+$heading-font-family:  'Rubik', sans-serif;
+
+.v-btn .v-btn__content {
+    font-family: 'Rubik';
+}
+
+.v-btn.primary {
+    background: #009688;
+    border-radius: 8px;
+}
+
+.v-btn.v-btn--outlined.primary {
+    border: 1px solid #009688;
+    border-radius: 8px;
+    color: #009688;
+}
+
+.v-application {
+    h1, h2, h3, h4, h5 {
+        font-family: $heading-font-family !important;
+        line-height: 1.2em;
+    }
+    p {
+        font-size: 16px;
+        font-family: 'Nunito';
+        line-height: 1.2em;
+    }
+    a {
+        font-family: 'Nunito';
+        line-height: 1.2em;
+    }
+    li {
+        font-family: 'Nunito';
+    }
+    span {
+        font-family: 'Nunito';
+    }
+    ul {
+        list-style: none;
+    }
+}
+
+@import '~vuetify/src/styles/styles.sass';

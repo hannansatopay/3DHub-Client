@@ -1,0 +1,52 @@
+{
+  "name": "3dhub",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "devHost": "HOST=0 nuxt",
+    "build": "nuxt-ts build",
+    "start": "nuxt-ts start",
+    "export": "nuxt-ts export",
+    "serve": "nuxt-ts serve",
+    "lint:js": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "lint": "npm run lint:js"
+  },
+  "dependencies": {
+    "@nuxt/typescript-runtime": "^0.4.10",
+    "@nuxtjs/axios": "^5.12.2",
+    "@nuxtjs/component-cache": "^1.1.6",
+    "@nuxtjs/gtm": "^2.4.0",
+    "@nuxtjs/pwa": "^3.0.2",
+    "@nuxtjs/recaptcha": "^1.0.4",
+    "countries-list": "^2.5.6",
+    "countup.js": "^2.3.2",
+    "express": "^4.17.1",
+    "js-cookie": "^2.2.1",
+    "lightgallery.js": "^1.1.3",
+    "moment": "^2.29.1",
+    "multer": "^1.4.2",
+    "nuxt": "^2.14.4",
+    "nuxt-start": "^2.15.8",
+    "photoswipe": "^5.3.0",
+    "rellax": "^1.12.1",
+    "utf8": "^3.0.0",
+    "vue": "^2.6.12",
+    "vue-countup-v2": "^4.0.0",
+    "vue-recaptcha": "^1.3.0",
+    "vue-rellax": "^0.2.0",
+    "vue-slick-carousel": "^1.0.6"
+  },
+  "devDependencies": {
+    "@nuxt/typescript-build": "^1.0.3",
+    "@nuxtjs/eslint-config": "^3.0.0",
+    "@nuxtjs/eslint-config-typescript": "^2.0.0",
+    "@nuxtjs/eslint-module": "^2.0.0",
+    "@nuxtjs/google-analytics": "^2.4.0",
+    "@nuxtjs/vuetify": "^1.11.2",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.7.0",
+    "eslint-plugin-nuxt": "^1.0.0",
+    "lodash": "^4.17.20"
+  }
+}
