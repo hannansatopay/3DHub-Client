@@ -1,7 +1,7 @@
 <template>
   <div>
 
-    <video width="100%" height="auto" autoplay muted> <source src="https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/3D_Hub_Final_w_Music_-_Compressed_with_FlexClip_JdkM7WibG.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1662376443012" type="video/mp4"></video>
+    <video width="100%" height="auto" autoplay muted> <source src="https://ik.imagekit.io/frlnc3rhub7/3D_Hub/3D_Hub_Final_w_Music_-_Compressed_with_FlexClip_JdkM7WibG.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1662376443012" type="video/mp4"></video>
 
     <div class="spacer"></div>
 
@@ -25,7 +25,7 @@
         <v-btn @click.prevent="$router.push('/about-us')" v-on="on" large depressed color="primary">Learn More</v-btn>
       </v-col>
       <v-col md="6" sm="12">
-        <img src="https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/Group_8195_H5QLsfKT5.png?ik-sdk-version=javascript-1.4.3&updatedAt=1659070027302" width="100%" />
+        <img src="https://ik.imagekit.io/frlnc3rhub7/3D_Hub/Group_8195_H5QLsfKT5.png?ik-sdk-version=javascript-1.4.3&updatedAt=1659070027302" width="100%" />
       </v-col>
     </v-row>
     </v-container>
@@ -35,7 +35,7 @@
     <v-container class="mt-5">
       <v-row class="mt-2">
         <v-col cols="12" sm="6" class="">
-          <img src="https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/3d_services_homepage_5Qockpe20.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1661494041407" width="100%" class="rounded-lg" :class="`elevation-${hover ? 24 : 6}`" />
+          <img src="https://ik.imagekit.io/frlnc3rhub7/3D_Hub/3d_services_homepage_5Qockpe20.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1661494041407" width="100%" class="rounded-lg" :class="`elevation-${hover ? 24 : 6}`" />
         </v-col>
         <v-col cols="12" sm="6">
           <h3 class="text-green">3D</h3>
@@ -151,23 +151,23 @@ export default {
         },
         portfolio: [
           {
-          'src': 'https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/54_AlenmaEtAf.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1662373204246',
+          'src': 'https://ik.imagekit.io/frlnc3rhub7/3D_Hub/54_AlenmaEtAf.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1662373204246',
           'name': 'Coty'
           },
           {
-          'src': 'https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/17_XAsKFkhlAp.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1662373204176',
+          'src': 'https://ik.imagekit.io/frlnc3rhub7/3D_Hub/17_XAsKFkhlAp.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1662373204176',
           'name': 'Morgan ikm'
           },
           {
-          'src': 'https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/64_JKhprMMUt.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1662373203932',
+          'src': 'https://ik.imagekit.io/frlnc3rhub7/3D_Hub/64_JKhprMMUt.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1662373203932',
           'name': 'Master Card'
           },
           {
-          'src': 'https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/5_NSc0vGxTh.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1662373203571',
+          'src': 'https://ik.imagekit.io/frlnc3rhub7/3D_Hub/5_NSc0vGxTh.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1662373203571',
           'name': 'Heinz'
           },
           {
-          'src': 'https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/141_gDaSZYZjw.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1662373203642',
+          'src': 'https://ik.imagekit.io/frlnc3rhub7/3D_Hub/141_gDaSZYZjw.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1662373203642',
           'name': 'Amouage'
           },
           
@@ -246,7 +246,7 @@ h2 {
 
 .special-background {
   height: 400px;
-  background: linear-gradient(to right, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/shop-now.png') no-repeat;
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://ik.imagekit.io/frlnc3rhub7/3D_Hub/shop-now_jMZuV3Fac.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666939082598') no-repeat;
   display: flex;
     align-items: center;
 }

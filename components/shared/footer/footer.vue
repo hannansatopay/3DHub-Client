@@ -3,7 +3,7 @@
         <v-container>
             <v-row>
                 <v-col md="3" sm="12">
-                    <img src="https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/3dhub-logo_-3UwJkBW7.png?ik-sdk-version=javascript-1.4.3&updatedAt=1659069244894" width="230" contain=""></img>
+                    <img src="https://ik.imagekit.io/frlnc3rhub7/3D_Hub/3dhub-logo_-3UwJkBW7.png?ik-sdk-version=javascript-1.4.3&updatedAt=1659069244894" width="230" contain=""></img>
                     <p class="caption grey--text darken-2 mb-0 text-center text-sm-left">Copyright ©2022 3DHUB.AE . All Rights Reserved.</p>
                 </v-col>
                 <v-col md="2" sm="12">

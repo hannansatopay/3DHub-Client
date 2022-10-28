@@ -59,7 +59,7 @@ export default {
 
 <style lang="scss" scoped>
 .background-header {
-    background: url(https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/Group_8271_tAsgsU_RF.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661493143636);
+    background: url(https://ik.imagekit.io/frlnc3rhub7/3D_Hub/Group_8271_tAsgsU_RF.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661493143636);
     background-size: cover;
 }
 </style>

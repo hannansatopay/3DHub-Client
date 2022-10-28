@@ -4,7 +4,7 @@
       <v-col md="4" sm="12" class="col-sm-12">
         <v-card elevation="0" class="start mx-auto">
           <v-card-text class="front">
-            <img src="https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/Group_8204_-ZsGzTORo.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660071717875" width="150">
+            <img src="https://ik.imagekit.io/frlnc3rhub7/3D_Hub/Group_8204_-ZsGzTORo.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660071717875" width="150">
             <h2 class="mt-3 text-white">Flexible Design</h2>
           </v-card-text>
           <v-card class="transition-fast-in-fast-out v-card--reveal" style="height: 100%;">
@@ -18,7 +18,7 @@
       <v-col md="4" sm="12" class="col-sm-12">
         <v-card elevation="0" class="start mx-auto">
           <v-card-text class="front">
-            <img src="https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/Group_8206_7-QULUkGr.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660071719343" width="150">
+            <img src="https://ik.imagekit.io/frlnc3rhub7/3D_Hub/Group_8206_7-QULUkGr.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660071719343" width="150">
             <h2 class="mt-3 text-white">Rapid Prototyping</h2>
           </v-card-text>
           <v-card class="transition-fast-in-fast-out v-card--reveal" style="height: 100%;">
@@ -32,7 +32,7 @@
       <v-col md="4" sm="12" class="col-sm-12">
         <v-card elevation="0" class="start mx-auto">
           <v-card-text class="front">
-            <img src="https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/Group_8205_lbPgEQTjs.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660071718275" width="150">
+            <img src="https://ik.imagekit.io/frlnc3rhub7/3D_Hub/Group_8205_lbPgEQTjs.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660071718275" width="150">
             <h2 class="mt-3 text-white">Print On-Demand</h2>
           </v-card-text>
           <v-card class="transition-fast-in-fast-out v-card--reveal" style="height: 100%;">
@@ -46,7 +46,7 @@
       <v-col md="4" sm="12" class="col-sm-12">
         <v-card elevation="0" class="start mx-auto">
           <v-card-text class="front">
-            <img src="https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/Group_8201_HJUAnnXUG.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660071714228" width="150">
+            <img src="https://ik.imagekit.io/frlnc3rhub7/3D_Hub/Group_8201_HJUAnnXUG.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660071714228" width="150">
             <h2 class="mt-3 text-white">Fast Design / Production</h2>
           </v-card-text>
           <v-card class="transition-fast-in-fast-out v-card--reveal" style="height: 100%;">
@@ -60,7 +60,7 @@
       <v-col md="4" sm="12" class="col-sm-12">
         <v-card elevation="0" class="start mx-auto">
           <v-card-text class="front">
-            <img src="https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/Group_8203_AYwH5nUi7.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660071714216" width="150">
+            <img src="https://ik.imagekit.io/frlnc3rhub7/3D_Hub/Group_8203_AYwH5nUi7.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660071714216" width="150">
             <h2 class="mt-3 text-white">Minimizing Waste</h2>
           </v-card-text>
           <v-card class="transition-fast-in-fast-out v-card--reveal" style="height: 100%;">
@@ -74,7 +74,7 @@
       <v-col md="4" sm="12" class="col-sm-12">
         <v-card elevation="0" class="start mx-auto">
           <v-card-text class="front">
-            <img src="https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/Group_8202_bcvEZuvdJ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660071714212" width="150">
+            <img src="https://ik.imagekit.io/frlnc3rhub7/3D_Hub/Group_8202_bcvEZuvdJ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660071714212" width="150">
             <h2 class="mt-3 text-white">Environment Friendly</h2>
           </v-card-text>
           <v-card class="transition-fast-in-fast-out v-card--reveal" style="height: 100%;">

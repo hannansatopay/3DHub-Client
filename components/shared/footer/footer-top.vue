@@ -1,6 +1,6 @@
 <template>
 <v-container>
-    <v-container class="footer-top text-center" style="background: url('/bg-green.png'); border-radius: 42px;">
+    <v-container class="footer-top text-center" style="background: url('https://ik.imagekit.io/frlnc3rhub7/3D_Hub/bg-green_W4Pl6OvUR.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666939360572'); border-radius: 42px;">
         <v-row class="mx-0 ">
             <v-col cols="12" sm="8" class="text-center text-sm-left">
                 <h1 class="mb-3">Get your parts into production </h1>

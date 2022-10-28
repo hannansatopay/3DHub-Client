@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div style="background: url('/bg-b.png'); padding: 50px;">
+        <div style="background: url('https://ik.imagekit.io/frlnc3rhub7/3D_Hub/bg-b_Y7Caqi86W.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666939434376'); padding: 50px;">
             <h1 class="text-center mb-4">Testimonials</h1>
             <v-container>
                 <client-only>

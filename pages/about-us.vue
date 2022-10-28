@@ -106,7 +106,7 @@ h2 {
 }
 
 .background {
-    background: url('https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/Group_8194_pd_ikcSwi.png?ik-sdk-version=javascript-1.4.3&updatedAt=1659066720062');
+    background: url('https://ik.imagekit.io/frlnc3rhub7/3D_Hub/Group_8194_pd_ikcSwi.png?ik-sdk-version=javascript-1.4.3&updatedAt=1659066720062');
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-position: top;

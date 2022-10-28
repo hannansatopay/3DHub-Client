@@ -2,7 +2,7 @@
     <div class="">
         <v-container>
             <v-row class="mt-2 mt-sm-10" style="box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); border-radius: 20px; overflow: hidden; padding: 0px; ">
-                <v-col cols="12" sm="5" class="pa-5" style="border-radius: 20px;background-image: url(https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/Ellipse_220_QDcOcJzKP.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661492371772);background-size: 150px;background-position: bottom left;background-color: #E0F3F2;">
+                <v-col cols="12" sm="5" class="pa-5" style="border-radius: 20px;background-image: url(https://ik.imagekit.io/frlnc3rhub7/3D_Hub/Ellipse_220_QDcOcJzKP.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661492371772);background-size: 150px;background-position: bottom left;background-color: #E0F3F2;">
                     <h1 class="mb-3">Contact Information</h1>
                     <p>Please submit your details below for one of our representatives to contact you, to assist you with your request or to give you more information on our services.</p>
                     <p>Enquiries are responded to with 24 hours. If you require to speak to a consultant urgently, kindly give us a call, the contact information can be found below.</p>

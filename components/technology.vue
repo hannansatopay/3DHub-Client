@@ -7,42 +7,42 @@
                 <VueSlickCarousel class="mt-3" ref="slick" v-bind="settings">
                 <div class="slide" v-if="verify('SLA 3D Printing')">
                     <div class="card">
-                        <img src="https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/Picture1_lzcaGEFza.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1660073450100" width="100%" />
+                        <img src="https://ik.imagekit.io/frlnc3rhub7/3D_Hub/Picture1_lzcaGEFza.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1660073450100" width="100%" />
                         <h4 class="pa-3">SLA 3D Printing</h4>
                         <p class="mt-3 text-center">VAT polymerization processes use UV light to cure material in a prefilled vat.</p>
                     </div>
                 </div>
                 <div class="slide" v-if="verify('MATERIAL EXTRUSION')">
                     <div class="card">
-                        <img src="https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/Picture2_R7I8LrzEf.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1660073449683" width="100%" />
+                        <img src="https://ik.imagekit.io/frlnc3rhub7/3D_Hub/Picture2_R7I8LrzEf.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1660073449683" width="100%" />
                         <h4 class="pa-3">MATERIAL EXTRUSION</h4>
                         <p class="mt-3 text-center">Material extrusion is an additive manufacturing technique and most efficient technology in 3D printing which uses continuous ﬁlament to construct 3D parts.</p>
                     </div>
                 </div>
                 <div class="slide" v-if="verify('MATERIAL JETTING')">
                     <div class="card">
-                        <img src="https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/Picture3_6_ebZGHGUW.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1660073449146" width="100%" />
+                        <img src="https://ik.imagekit.io/frlnc3rhub7/3D_Hub/Picture3_6_ebZGHGUW.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1660073449146" width="100%" />
                         <h4 class="pa-3">MATERIAL JETTING</h4>
                         <p class="mt-3 text-center">Creates objects in a similar method to a two-dimensional ink jet printer. Material is jetted onto a build platform layer by layer while simultaneously being cured using UV light.</p>
                     </div>
                 </div>
                 <div class="slide" v-if="verify('POWER BED FUSION')">
                     <div class="card">
-                        <img src="https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/Picture4_tCGQMhsBf.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1660073448877" width="100%" />
+                        <img src="https://ik.imagekit.io/frlnc3rhub7/3D_Hub/Picture4_tCGQMhsBf.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1660073448877" width="100%" />
                         <h4 class="pa-3">POWER BED FUSION</h4>
                         <p class="mt-3 text-center">Powder bed fusion is a subset of additive manufacturing whereby a heat source is used to consolidate material in powder form into 3D objects.</p>
                     </div>
                 </div>
                 <div class="slide" v-if="verify('DIRECT ENERGY DEPOSITION')">
                     <div class="card">
-                        <img src="https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/Picture5_J6mIsmrzK.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1660073448843" width="100%" />
+                        <img src="https://ik.imagekit.io/frlnc3rhub7/3D_Hub/Picture5_J6mIsmrzK.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1660073448843" width="100%" />
                         <h4 class="pa-3">DIRECT ENERGY DEPOSITION</h4>
                         <p class="mt-3 text-center">Directed Energy Deposition is a 3D printing method which uses a focused energy source to melt a metal wire or powder which is simultaneously deposited by a nozzle.</p>
                     </div>
                 </div>
                 <div class="slide" v-if="verify('FRP CASTING')">
                     <div class="card">
-                        <img src="https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/Picture6_NQGxRpVTo.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1660073448693" width="100%" />
+                        <img src="https://ik.imagekit.io/frlnc3rhub7/3D_Hub/Picture6_NQGxRpVTo.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1660073448693" width="100%" />
                         <h4 class="pa-3">FRP CASTING</h4>
                         <p class="mt-3 text-center">Fiber Reinforced Polyester is a method of 3D printing which uses fiberglass molding and casting of any size, shape, and details - whether it is an interior decoration model or large sculptures.</p>
                     </div>

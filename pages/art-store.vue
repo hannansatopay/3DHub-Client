@@ -54,73 +54,73 @@ export default {
         portfolio: [
           {
           'name': 'Lorem Ipsum',
-          'src': 'https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/team_2__7__jc1I1lASC.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660634604847',
+          'src': 'https://ik.imagekit.io/frlnc3rhub7/3D_Hub/team_2__7__jc1I1lASC.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660634604847',
           'type': 'Option A',
           'price': 'AED 234'
           },
           {
           'name': 'Lorem Ipsum',
-          'src': 'https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/team_2__6__T14JxdQSa.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660634604803',
+          'src': 'https://ik.imagekit.io/frlnc3rhub7/3D_Hub/team_2__6__T14JxdQSa.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660634604803',
           'type': 'Option A',
           'price': 'AED 234'
           },
           {
           'name': 'Lorem Ipsum',
-          'src': 'https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/team_2__5__agYaGYYD9.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660634605128',
+          'src': 'https://ik.imagekit.io/frlnc3rhub7/3D_Hub/team_2__5__agYaGYYD9.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660634605128',
           'type': 'Option A',
           'price': 'AED 234'
           },
           {
           'name': 'Lorem Ipsum',
-          'src': 'https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/team_2__9__tu2glg_n4.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660634603496',
+          'src': 'https://ik.imagekit.io/frlnc3rhub7/3D_Hub/team_2__9__tu2glg_n4.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660634603496',
           'type': 'Option A',
           'price': 'AED 234'
           },
           {
           'name': 'Lorem Ipsum',
-          'src': 'https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/team_2__8__oI4lTB-5R.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660634603307',
+          'src': 'https://ik.imagekit.io/frlnc3rhub7/3D_Hub/team_2__8__oI4lTB-5R.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660634603307',
           'type': 'Option B',
           'price': 'AED 234'
           },
           {
           'name': 'Lorem Ipsum',
-          'src': 'https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/team_2__10__L4hV66G1p.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660634601392',
+          'src': 'https://ik.imagekit.io/frlnc3rhub7/3D_Hub/team_2__10__L4hV66G1p.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660634601392',
           'type': 'Option A',
           'price': 'AED 234'
           },
           {
           'name': 'Lorem Ipsum',
-          'src': 'https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/team_2__7__jc1I1lASC.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660634604847',
+          'src': 'https://ik.imagekit.io/frlnc3rhub7/3D_Hub/team_2__7__jc1I1lASC.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660634604847',
           'type': 'Option B',
           'price': 'AED 234'
           },
           {
           'name': 'Lorem Ipsum',
-          'src': 'https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/team_2__7__jc1I1lASC.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660634604847',
+          'src': 'https://ik.imagekit.io/frlnc3rhub7/3D_Hub/team_2__7__jc1I1lASC.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660634604847',
           'type': 'Option B',
           'price': 'AED 234'
           },
           {
           'name': 'Lorem Ipsum',
-          'src': 'https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/team_2__7__jc1I1lASC.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660634604847',
+          'src': 'https://ik.imagekit.io/frlnc3rhub7/3D_Hub/team_2__7__jc1I1lASC.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660634604847',
           'type': 'Option B',
           'price': 'AED 234'
           },
           {
           'name': 'Lorem Ipsum',
-          'src': 'https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/team_2__7__jc1I1lASC.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660634604847',
+          'src': 'https://ik.imagekit.io/frlnc3rhub7/3D_Hub/team_2__7__jc1I1lASC.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660634604847',
           'type': 'Option B',
           'price': 'AED 234'
           },
           {
           'name': 'Lorem Ipsum',
-          'src': 'https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/team_2__7__jc1I1lASC.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660634604847',
+          'src': 'https://ik.imagekit.io/frlnc3rhub7/3D_Hub/team_2__7__jc1I1lASC.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660634604847',
           'type': 'Option B',
           'price': 'AED 234'
         },
           {
           'name': 'Lorem Ipsum',
-          'src': 'https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/team_2__7__jc1I1lASC.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660634604847',
+          'src': 'https://ik.imagekit.io/frlnc3rhub7/3D_Hub/team_2__7__jc1I1lASC.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660634604847',
           'type': 'Option B',
           'price': 'AED 234'
           },
@@ -172,7 +172,7 @@ h2 {
 }
 
 .background {
-    background: url('https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/Group_8194_pd_ikcSwi.png?ik-sdk-version=javascript-1.4.3&updatedAt=1659066720062');
+    background: url('https://ik.imagekit.io/frlnc3rhub7/3D_Hub/Group_8194_pd_ikcSwi.png?ik-sdk-version=javascript-1.4.3&updatedAt=1659066720062');
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-position: top;
@@ -189,7 +189,7 @@ h2 {
 .special-background {
   height: 400px;
   margin-bottom: 300px;
-  background: linear-gradient(to right, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/Rectangle_1422_84vbXXM91.png?ik-sdk-version=javascript-1.4.3&updatedAt=1659067540765') no-repeat;
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://ik.imagekit.io/frlnc3rhub7/3D_Hub/Rectangle_1422_84vbXXM91.png?ik-sdk-version=javascript-1.4.3&updatedAt=1659067540765') no-repeat;
   display: flex;
     align-items: center;
 
@@ -235,7 +235,7 @@ border-radius: 30px;
 }
 
 .background-header {
-    background: url(https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/Group_8271_tAsgsU_RF.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661493143636);
+    background: url(https://ik.imagekit.io/frlnc3rhub7/3D_Hub/Group_8271_tAsgsU_RF.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661493143636);
     background-size: cover;
 }
 

@@ -106,7 +106,7 @@ h2 {
 
 .special-background {
   height: 300px;
-  background: linear-gradient(to right, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/shop-now.png') no-repeat;
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://ik.imagekit.io/frlnc3rhub7/3D_Hub/shop-now_jMZuV3Fac.png?ik-sdk-version=javascript-1.4.3&updatedAt=1666939082598') no-repeat;
   display: flex;
     align-items: center;
 }

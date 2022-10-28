@@ -4,7 +4,7 @@
       <v-col md="4" sm="12" v-for="industry in getIndustries" :key="industry._id">
         <div class="card" @click.prevent="view(industry.name)">
           <div class="card-body">
-            <div class="cover" :style="{ backgroundImage: `url(${industry.image?industry.image:'https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/team_2__7__jc1I1lASC.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660634604847'})` }"></div>
+            <div class="cover" :style="{ backgroundImage: `url(${industry.image?industry.image:'https://ik.imagekit.io/frlnc3rhub7/3D_Hub/team_2__7__jc1I1lASC.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660634604847'})` }"></div>
             <div class="name">
               <h4>{{industry.name}}</h4>
             </div>

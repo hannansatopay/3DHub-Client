@@ -33,7 +33,7 @@
                             <h4 class="mb-2">Submit your designs</h4>
                             <p class="mb-0">Submit your STL file and fill in our quick quote page.</p>
                         </div>
-                        <img class="green" src="https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/Group_2Jg2ocv6Q.png?ik-sdk-version=javascript-1.4.3&updatedAt=1659091425200" width="60">
+                        <img class="green" src="https://ik.imagekit.io/frlnc3rhub7/3D_Hub/Group_2Jg2ocv6Q.png?ik-sdk-version=javascript-1.4.3&updatedAt=1659091425200" width="60">
                     </div>
                 </v-col>
                 <v-col md="3" sm="12">
@@ -42,7 +42,7 @@
                             <h4 class="mb-2">Get the Quote</h4>
                             <p class="mb-0">Once your file is submitted, we guarantee a quick quote and feedback from one of our representatives.</p>
                         </div>
-                        <img class="orange" src="https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/Group_2Jg2ocv6Q.png?ik-sdk-version=javascript-1.4.3&updatedAt=1659091425200" width="60">
+                        <img class="orange" src="https://ik.imagekit.io/frlnc3rhub7/3D_Hub/Group_2Jg2ocv6Q.png?ik-sdk-version=javascript-1.4.3&updatedAt=1659091425200" width="60">
                     </div>
                 </v-col>
                 <v-col md="3" sm="12">
@@ -51,7 +51,7 @@
                             <h4 class="mb-2">Initiate Manufacturing Process</h4>
                             <p class="mb-0">The best manufacturer in our quality-vetted network will start producing your design straight away.</p>
                         </div>
-                        <img class="green" src="https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/Group_2Jg2ocv6Q.png?ik-sdk-version=javascript-1.4.3&updatedAt=1659091425200" width="60">
+                        <img class="green" src="https://ik.imagekit.io/frlnc3rhub7/3D_Hub/Group_2Jg2ocv6Q.png?ik-sdk-version=javascript-1.4.3&updatedAt=1659091425200" width="60">
                     </div>
                 </v-col>
                 <v-col md="3" sm="12">
@@ -60,7 +60,7 @@
                             <h4 class="mb-2">At your Door Delivery</h4>
                             <p class="mb-0">We handle all logistics and communications, guaranteeing your part arrives on time.</p>
                         </div>
-                        <img class="orange" src="https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/Group_2Jg2ocv6Q.png?ik-sdk-version=javascript-1.4.3&updatedAt=1659091425200" width="60">
+                        <img class="orange" src="https://ik.imagekit.io/frlnc3rhub7/3D_Hub/Group_2Jg2ocv6Q.png?ik-sdk-version=javascript-1.4.3&updatedAt=1659091425200" width="60">
                     </div>
                 </v-col>
             </v-row>
@@ -101,7 +101,7 @@ components: { Faq, H1 },
 }
 
 .background-header {
-    background: url(https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/Group_8271_tAsgsU_RF.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661493143636);
+    background: url(https://ik.imagekit.io/frlnc3rhub7/3D_Hub/Group_8271_tAsgsU_RF.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661493143636);
     background-size: cover;
 }
 
@@ -143,7 +143,7 @@ img {
 }
 
 .circle {
-    background: url('https://ik.imagekit.io/u8in9yfbp5jz/3D_Hub/Group_8196_TC3g4pg0I.png?ik-sdk-version=javascript-1.4.3&updatedAt=1659090604019');
+    background: url('https://ik.imagekit.io/frlnc3rhub7/3D_Hub/Group_8196_TC3g4pg0I.png?ik-sdk-version=javascript-1.4.3&updatedAt=1659090604019');
     height: 0;
     padding-top: 100%;
     background-position: center;
